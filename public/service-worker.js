@@ -46,7 +46,7 @@ self.addEventListener('activate', function (e) {
     );
 });
 
-self.addEventListener('fetch', function (e) {
+/* self.addEventListener('fetch', function (e) {
     console.log('fetch request : ' + e.request.url)
     e.respondWith(
         caches.match(e.request).then(function (request) {
@@ -62,9 +62,9 @@ self.addEventListener('fetch', function (e) {
             // return request || fetch(e.request)
         })
     )
-})
+}) */
 
-/* self.addEventListener('fetch', function (e) {
+self.addEventListener('fetch', function (e) {
     console.log('fetch request : ' + e.request.url)
     if (e.request.url.includes("/api")) {
         e.respondWith(
@@ -97,4 +97,4 @@ self.addEventListener('fetch', function (e) {
             })
         )
     }
-}) */
+})
