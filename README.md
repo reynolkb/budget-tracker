@@ -3,21 +3,23 @@
 # Budget Tracker
 
 ## Description
-        
+
 This is an application that allows the user to create transactions for their budget online and offline and download a PWA.
+
+Deployed Application: [https://budget-tracker-kyle.herokuapp.com/](https://budget-tracker-kyle.herokuapp.com/)
 
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
-* Navigate to [https://github.com/reynolkb/budget-tracker](https://github.com/reynolkb/budget-tracker). 
-* Click the 'code' button and download the zip file.
-* Unzip the file on your computer.
+- Navigate to [https://github.com/reynolkb/budget-tracker](https://github.com/reynolkb/budget-tracker).
+- Click the 'code' button and download the zip file.
+- Unzip the file on your computer.
 
 ## Usage
 
